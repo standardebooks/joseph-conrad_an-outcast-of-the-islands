@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/joseph-conrad/an-outcast-of-the-islands</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2025-07-17T18:06:11Z</dc:date>
+		<meta property="dcterms:modified">2025-07-17T18:06:11Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -55,14 +55,14 @@
 		<meta property="group-position" refines="#collection-1">2</meta>
 		<dc:description id="description">Disgraced in a scandal, a Dutch clerk flees to a river settlement on Borneo, where he is tempted by a native beauty.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Peter Willems is a successful clerk in a Dutch East Indies trading company until he is caught for embezzlement. He turns to Tom Lingard, his erstwhile benefactor, who sends him to work in a commercial outpost on a river settlement. There, Willems meets a young and beautiful native girl. Overwhelmed by this encounter, he is tempted to turn on his employer.&lt;/p&gt;
-			&lt;p&gt;&lt;i&gt;An Outcast of the Islands&lt;/i&gt; is &lt;a href="https://standardebooks.org/ebooks/joseph-conrad"&gt;Joseph Conrad’s&lt;/a&gt; second novel. It was published in 1896, just one year after his literary debut, &lt;a href="https://standardebooks.org/ebooks/joseph-conrad/almayers-folly"&gt;&lt;i&gt;Almayer’s Folly&lt;/i&gt;&lt;/a&gt;. Surprisingly, despite sharing the same setting and several characters, it is not a sequel but rather takes place about 15 years earlier. One of the main supporting characters, Tom Lingard, also appears in a much-later released third volume called &lt;i&gt;The Rescue&lt;/i&gt; (1920). Collectively, these three works are sometimes referred to as the “Lingard Trilogy.”&lt;/p&gt;
+			&lt;p&gt;Peter Willems is a successful clerk in a Dutch East Indies trading company until he’s caught for embezzlement. He turns to Tom Lingard, his erstwhile benefactor, who sends him to work in a commercial outpost on a river settlement. There, Willems meets a young and beautiful native girl. Overwhelmed by this encounter, he’s tempted to turn on his employer.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;An Outcast of the Islands&lt;/i&gt; is &lt;a href="https://standardebooks.org/ebooks/joseph-conrad"&gt;Joseph Conrad’s&lt;/a&gt; second novel. It was published in 1896, just one year after his literary debut, &lt;a href="https://standardebooks.org/ebooks/joseph-conrad/almayers-folly"&gt;&lt;i&gt;Almayer’s Folly&lt;/i&gt;&lt;/a&gt;. Surprisingly, despite sharing the same setting and several characters, it’s not a sequel, but rather takes place about 15 years earlier. One of the main supporting characters, Tom Lingard, also appears one of Conrad’s later novels, &lt;i&gt;The Rescue&lt;/i&gt;. Collectively, these three works are sometimes referred to as the &lt;a href="https://standardebooks.org/collections/lingard-trilogy"&gt;Lingard Trilogy&lt;/a&gt;.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/638</dc:source>
 		<dc:source>https://archive.org/details/outcastofislands00conr_0/</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">106778</meta>
+		<meta property="se:reading-ease.flesch">72.26</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/An_Outcast_of_the_Islands</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/joseph-conrad_an-outcast-of-the-islands</meta>
 		<dc:creator id="author">Joseph Conrad</dc:creator>
@@ -93,6 +93,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Robin Whittleton</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Whittleton, Robin</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://www.robinwhittleton.com/</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
