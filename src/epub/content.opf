@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/joseph-conrad/an-outcast-of-the-islands</dc:identifier>
 		<dc:date>2025-07-17T18:06:11Z</dc:date>
@@ -55,11 +55,11 @@
 		<meta id="collection-1" property="belongs-to-collection">Lingard Trilogy</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">2</meta>
-		<dc:description id="description">Disgraced in a scandal, a Dutch clerk flees to a river settlement on Borneo, where he is tempted by a native beauty.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>Disgraced in a scandal, a Dutch clerk flees to a river settlement on Borneo, where he is tempted by a native beauty.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;Peter Willems is a successful clerk in a Dutch East Indies trading company until he’s caught for embezzlement. He turns to Tom Lingard, his erstwhile benefactor, who sends him to work in a commercial outpost on a river settlement. There, Willems meets a young and beautiful native girl. Overwhelmed by this encounter, he’s tempted to turn on his employer.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;An Outcast of the Islands&lt;/i&gt; is &lt;a href="https://standardebooks.org/ebooks/joseph-conrad"&gt;Joseph Conrad’s&lt;/a&gt; second novel. It was published in 1896, just one year after his literary debut, &lt;a href="https://standardebooks.org/ebooks/joseph-conrad/almayers-folly"&gt;&lt;i&gt;Almayer’s Folly&lt;/i&gt;&lt;/a&gt;. Surprisingly, despite sharing the same setting and several characters, it’s not a sequel, but rather takes place about 15 years earlier. One of the main supporting characters, Tom Lingard, also appears in one of Conrad’s later novels, &lt;i&gt;The Rescue&lt;/i&gt;. Collectively, these three works are sometimes referred to as the &lt;a href="https://standardebooks.org/collections/lingard-trilogy"&gt;Lingard Trilogy&lt;/a&gt;.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/638</dc:source>
 		<dc:source>https://archive.org/details/outcastofislands00conr_0</dc:source>
